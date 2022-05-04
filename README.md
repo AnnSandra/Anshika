@@ -1,1 +1,1 @@
-# Anshika
+# infinite-runner-game
